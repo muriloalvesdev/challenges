@@ -1,0 +1,6 @@
+[submodule "schedule-api"]
+	path = schedule-api
+	url = https://github.com/muriloalvesdev/luizalabs-desafio
+[submodule "buy-manager"]
+	path = buy-manager
+	url = https://github.com/muriloalvesdev/buy-manager
