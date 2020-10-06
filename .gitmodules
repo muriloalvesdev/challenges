@@ -4,3 +4,6 @@
 [submodule "buy-manager"]
 	path = buy-manager
 	url = https://github.com/muriloalvesdev/buy-manager
+[submodule "github-developers"]
+	path = github-developers
+	url = https://github.com/muriloalvesdev/github-developers
