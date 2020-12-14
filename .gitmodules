@@ -7,3 +7,6 @@
 [submodule "github-developers"]
 	path = github-developers
 	url = https://github.com/muriloalvesdev/github-developers
+[submodule "challenge-portugal"]
+	path = challenge-portugal
+	url = https://github.com/muriloalvesdev/challenge-portugal.git
