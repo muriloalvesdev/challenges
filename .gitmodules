@@ -10,3 +10,6 @@
 [submodule "challenge-portugal"]
 	path = challenge-portugal
 	url = https://github.com/muriloalvesdev/challenge-portugal.git
+[submodule "challenge-meli"]
+	path = challenge-meli
+	url = https://github.com/muriloalvesdev/Simian.git
