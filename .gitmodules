@@ -13,3 +13,6 @@
 [submodule "challenge-meli"]
 	path = challenge-meli
 	url = https://github.com/muriloalvesdev/Simian.git
+[submodule "Simian"]
+	path = Simian
+	url = https://github.com/muriloalvesdev/Simian.git
