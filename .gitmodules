@@ -16,3 +16,6 @@
 [submodule "Simian"]
 	path = Simian
 	url = https://github.com/muriloalvesdev/Simian.git
+[submodule "transaction"]
+	path = transaction
+	url = https://github.com/muriloalvesdev/transaction.git
